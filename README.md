@@ -1,3 +1,19 @@
+Aplication quioscoapp - fullstack project of deliveri food created by prisma, nextjs, tailwindcss
+
+
+npx create-next-app@latest
+
+cd quioscoapp
+
+npm run dev
+
+
+npm i -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
